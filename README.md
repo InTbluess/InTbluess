@@ -1,3 +1,5 @@
+# 💫 About Me:
+Hey 👋<br><br>I'm Indranil.<br><br>I enjoy coding, gaming, and diving into new technologies. Most of the things you'll find here are projects, experiments, and ideas I'm currently working on.<br><br>Still learning, still improving, and having fun along the way.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ken5927) 
@@ -13,8 +15,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=InTbluess&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=InTbluess&icon=2&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
