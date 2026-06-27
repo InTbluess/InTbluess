@@ -25,7 +25,7 @@ indranil@dev-terminal:~$ cat about.txt
 
 → bca student. builder by curiosity.
 → currently running: web development · machine learning
-→ frontend: react · next.js · tailwind · gsap
+→ frontend: react · next.js · tailwind · gsap · framer-motion · lenis 
 → backend: fastapi · flask · express
 → learning by building projects, one repo at a time
 → short quest: ship something people actually use
