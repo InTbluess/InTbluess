@@ -1,30 +1,41 @@
-```
+ <div align="center">
+
+```text
 [ PLAYER CARD INITIALIZED ]
 ```
- 
-⚡ just a dev who ships things before reading the docs
-B.Tech · Building at the intersection of web, mobile & ML
- 
+
+## ⚡ just a dev who ships things before reading the docs
+
+### BCA • Amity University Online
+
+![ML](https://img.shields.io/badge/🤖_ML/AI-learning-6C63FF?style=flat-square)
+![Web](https://img.shields.io/badge/🌐_Web-Full--Stack-00C896?style=flat-square)
+![FastAPI](https://img.shields.io/badge/⚡_FastAPI-building-22C55E?style=flat-square)
+![Caffeine](https://img.shields.io/badge/☕_Coffee-powered-brown?style=flat-square)
+![Journey](https://img.shields.io/badge/🚀_Currently-Grinding-orange?style=flat-square)
+
+</div>
+
 ---
- 
-▸ lore.txt
- 
+
+<b>▸ lore.txt</b>
+
 ```
 indranil@dev-terminal:~$ cat about.txt
- 
-→ full-stack dev. android builder. ml tinkerer.
-→ currently running: web dev · android · machine learning — all at once
-→ fluent in frontend sorcery: react, next.js, gsap, framer-motion
-→ backend? fast api, flask, express — pick your poison
-→ short quest:  ship something people actually use
-→ final boss:   build an AI product from scratch 🔒
- 
+
+→ bca student. builder by curiosity.
+→ currently running: web development · machine learning
+→ frontend: react · next.js · tailwind · gsap
+→ backend: fastapi · flask · express
+→ learning by building projects, one repo at a time
+→ short quest: ship something people actually use
+→ final boss: build an AI product from scratch 🔒
+
 indranil@dev-terminal:~$ █
 ```
- 
----
- 
-▸ stats
+
+
+<b>▸ stats.txt </b>
  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=InTbluess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" width="48%" />
@@ -33,24 +44,22 @@ indranil@dev-terminal:~$ █
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InTbluess&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </div>
----
- 
-▸ skill tree
+<b>▸ skill tree </b>
  
 ```
 JavaScript       ████████░░  78%
-Python           ███████░░░  70%
+Python           █████████░  88%
 React / Next.js  ████████░░  75%
-Flutter          ██████░░░░  62%
-Machine Learning ████░░░░░░  45%
-FastAPI / Flask  ██████░░░░  60%
+Flutter          ████████░░  80%
+Machine Learning ███████░░░  65%
+FastAPI / Flask  ██████░░░░  45%
 GSAP / Animation ███████░░░  68%
-MySQL / MongoDB  ██████░░░░  63%
+MySQL / MongoDB  ████████░░  78%
 ```
  
 ---
  
-▸ quest log
+<b>▸ quest_log.txt</b>
  
 ```
 ✓  build first android app                              [done]
@@ -65,7 +74,7 @@ MySQL / MongoDB  ██████░░░░  63%
  
 ---
  
-▸ inventory
+<b>▸ inventory.txt</b>
  
 ```
 languages  →  JS · Python · PHP · Kotlin · HTML · CSS · Dart
@@ -78,7 +87,7 @@ ml stack   →  Jupyter · Python · scikit-learn
  
 ---
  
-▸ connect
+<b>▸ connect.txt</b>
  
 ```
 indranil@dev-terminal:~$ cat socials.txt
