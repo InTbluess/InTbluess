@@ -8,11 +8,11 @@
 
 ### BCA • Amity University Online
 
-![ML](https://img.shields.io/badge/🤖_ML/AI-learning-6C63FF?style=flat-square)
-![Web](https://img.shields.io/badge/🌐_Web-Full--Stack-00C896?style=flat-square)
-![FastAPI](https://img.shields.io/badge/⚡_FastAPI-building-22C55E?style=flat-square)
-![Caffeine](https://img.shields.io/badge/☕_Coffee-powered-brown?style=flat-square)
-![Journey](https://img.shields.io/badge/🚀_Currently-Grinding-orange?style=flat-square)
+![ML](https://img.shields.io/badge/🤖_ML/AI-learning-6C63FF?style=round-square)
+![Web](https://img.shields.io/badge/🌐_Web-Full--Stack-00C896?style=round-square)
+![FastAPI](https://img.shields.io/badge/⚡_FastAPI-building-22C55E?style=round-square)
+![Caffeine](https://img.shields.io/badge/☕_Caffeine-powered-brown?style=round-square)
+![Journey](https://img.shields.io/badge/🚀_Currently-Grinding-orange?style=round-square)
 
 </div>
 
