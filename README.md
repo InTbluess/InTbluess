@@ -34,16 +34,6 @@ indranil@dev-terminal:~$ cat about.txt
 indranil@dev-terminal:~$ █
 ```
 
-
-<b>▸ stats.txt </b>
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InTbluess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InTbluess&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InTbluess&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</div>
 <b>▸ skill tree </b>
  
 ```
@@ -86,6 +76,16 @@ ml stack   →  Jupyter · Python · scikit-learn
 ```
  
 ---
+
+<b>▸ stats.txt </b>
+ 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InTbluess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InTbluess&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InTbluess&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+</div>
  
 <b>▸ connect.txt</b>
  
