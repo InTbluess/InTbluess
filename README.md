@@ -10,8 +10,8 @@
 
 ![ML](https://img.shields.io/badge/🤖_ML/AI-learning-6C63FF?style=round-square)
 ![Web](https://img.shields.io/badge/🌐_Web-Full--Stack-00C896?style=round-square)
-![FastAPI](https://img.shields.io/badge/⚡_FastAPI-building-22C55E?style=round-square)
-![Caffeine](https://img.shields.io/badge/☕_Caffeine-powered-brown?style=round-square)
+![FastAPI](https://img.shields.io/badge/⚡_FastAPI-Building-22C55E?style=round-square)
+![Caffeine](https://img.shields.io/badge/☕_Caffeine-Powered-brown?style=round-square)
 ![Journey](https://img.shields.io/badge/🚀_Currently-Grinding-orange?style=round-square)
 
 </div>
