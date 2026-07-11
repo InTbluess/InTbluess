@@ -67,7 +67,7 @@ MySQL / MongoDB  ████████░░  78%
 <b>▸ inventory.txt</b>
  
 ```
-languages  →  JS · Python · PHP · Kotlin · HTML · CSS · Dart
+languages  →  JS · Python · PHP · Java · HTML · CSS · Dart
 frontend   →  React · Next.js · Tailwind · GSAP · Framer Motion
 backend    →  Node/Express · FastAPI · Flask · MERN
 mobile     →  Flutter · Hive
